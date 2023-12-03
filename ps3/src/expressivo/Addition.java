@@ -10,6 +10,8 @@ import java.util.Objects;
  * <p>PS3 instructions: this class is a concrete variant of the Expression interface.
  * It represents an addition operation in a polynomial expression.
  */
+
+// Code Added by @Jazib.
 public class Addition implements Expression {
     private final Expression left;
     private final Expression right;
