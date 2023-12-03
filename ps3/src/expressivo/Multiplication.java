@@ -3,6 +3,8 @@ package expressivo;
 
 import java.util.Objects;
 
+//  Code added by @Jazib.
+
 public class Multiplication implements Expression {
     private final Expression left;
     private final Expression right;
