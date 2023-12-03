@@ -10,6 +10,8 @@ import java.util.Objects;
  * <p>PS3 instructions: this class is a concrete variant of the Expression interface.
  * It represents a variable in a polynomial expression.
  */
+
+// Code Added by @Jazib.
 public class Variable implements Expression {
     private final String name;
 
