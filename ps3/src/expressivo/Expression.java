@@ -14,6 +14,7 @@ package expressivo;
  * You may, however, add additional methods, or strengthen the specs of existing methods.
  * Declare concrete variants of Expression in their own Java source files.
  */
+// Code Added by @Jazib.
 public interface Expression {
     
     // Datatype definition
