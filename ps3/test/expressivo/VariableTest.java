@@ -3,6 +3,8 @@ import expressivo.Variable;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
+
+// Test Cases added by @Muhamamd Yameen.
 public class VariableTest {
 
     @Test
