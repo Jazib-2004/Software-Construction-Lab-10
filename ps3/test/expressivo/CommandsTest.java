@@ -10,6 +10,8 @@ import org.junit.Test;
 /**
  * Tests for the static methods of Commands.
  */
+
+// Test Cases added by @Muhammad Yameen.
 public class CommandsTest {
 
     // Testing strategy
